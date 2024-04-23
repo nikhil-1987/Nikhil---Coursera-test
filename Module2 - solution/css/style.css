@@ -1,3 +1,4 @@
+/*Base style*/
 * {
 	margin: 0;
 	padding: 0;
@@ -80,7 +81,7 @@ p {
 }
 
 /*Tablet version*/
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991.9px) {
 	.col-md-6 {
 		float: left;
 		width: 50%;
@@ -98,7 +99,7 @@ p {
 /* Mobile version */
 @media (max-width:767px) {
 	.col-sm-12 {
-        float:left;
+       float:left;
 	    width:100%;
 	}
 }
