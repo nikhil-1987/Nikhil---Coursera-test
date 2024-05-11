@@ -14,6 +14,9 @@
     border-top: 4px solid black;
     border-bottom: 4px solid  black;
 }
+li.nav-item.d-md-none {
+    width: 100%;
+}
 button.navbar-toggler.d-md-none {
     border: 2px solid white;
 } 
@@ -65,8 +68,6 @@ a.nav-link:hover {
     background-color:floralwhite;
     border-radius:10px;
 }
-li.nav-item.d-md-none {
-    width: 100%;
-}
+
 
 
