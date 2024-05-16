@@ -1,13 +1,14 @@
 let names=new Array();
-names[0]="Nikhil";
-names[1]="Jango";
-names[2]="Jennifer";
-names[3]="javed";
-names[4]="dave";
-names[5]="sarah";
-names[6]="david";
-names[7]="Natasha";
-names[8]="jorge";
+names[0]="Yaakov";
+names[1]="John";
+names[2]="Jen";
+names[3]="Jason";
+names[4]="paul";
+names[5]="Frank";
+names[6]="Larry";
+names[7]="Paula";
+names[8]="Laura";
+names[9]="Jim";
 
 for (let i = 0; i < names.length; i++) {
     if(names[i].charAt(0)=='J'|| names[i].charAt(0)==='j'){
